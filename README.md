@@ -13,10 +13,10 @@
 <!-- <img src='https://raw.githubusercontent.com/Kurohyou-Studios/5e-ultimate/main/K-200.png' align="center"> -->
 </div>
 <div align="center">
-<h3 align="center">K-Scaffold</h3>
+<h3 align="center">5e Ultimate Sheet</h3>
 <p align="center">
 
-A PUG, JS, and SCSS framework for building custom Roll20 character sheet templates.
+The next generation of 5e character sheets for Roll20.
 
 
 <a href="https://kurohyou-studios.github.io/5e-ultimate/">View Documentation</a> · <a href="https://github.com/Kurohyou-Studios/5e-ultimate/issues">Report Bug</a> · <a href="https://github.com/Kurohyou-Studios/5e-ultimate/issues">Request Feature</a>
@@ -64,6 +64,12 @@ See the [open issues](https://github.com/Kurohyou-Studios/5e-ultimate/issues) fo
 <!-- CONTRIBUTING -->
 
 ## Contributing
+### Feature Requests
+New features should be added as [issues](https://github.com/Kurohyou-Studios/5e-ultimate/issues). Each issue should be for a single feature. Each feature request should have:
+- A detailed description of the feature's functionality
+- Examples of use cases
+- Example sheets that have the functionality (if applicable)
+### Coding
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
